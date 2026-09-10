@@ -2,6 +2,8 @@
 using namespace std;
 
 int main() {
-    // Write your solution here.
-    return 0;
+    int value;
+    cin >> value;
+    cout << value << '\n';
+    return (int) 2;
 }
