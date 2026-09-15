@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-    // Write your solution here.
+//print_chant 'moo'
     return 0;
 }
