@@ -2,9 +2,7 @@
 using namespace std;
 
 int main() {
-    int value;
+   int value;
+   cout << value << '\n';
     cin >> value;
-    value=2;
-    cout << value << '\n';
     return 0;
-}
