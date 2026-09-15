@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-//print_chant 'moo'
+cout << "moo";
     return 0;
 }
